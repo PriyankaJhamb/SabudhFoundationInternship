@@ -1,0 +1,4 @@
+
+str1=input("Enter the String: ");
+print(str1==str1[::-1]);
+print(str1[2:len(str1)] +str1[0:2])
